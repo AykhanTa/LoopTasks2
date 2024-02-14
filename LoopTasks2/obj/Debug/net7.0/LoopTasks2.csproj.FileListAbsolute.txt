@@ -1,0 +1,14 @@
+C:\Users\Computer\Desktop\LoopTasks2\LoopTasks2\LoopTasks2\bin\Debug\net7.0\LoopTasks2.exe
+C:\Users\Computer\Desktop\LoopTasks2\LoopTasks2\LoopTasks2\bin\Debug\net7.0\LoopTasks2.deps.json
+C:\Users\Computer\Desktop\LoopTasks2\LoopTasks2\LoopTasks2\bin\Debug\net7.0\LoopTasks2.runtimeconfig.json
+C:\Users\Computer\Desktop\LoopTasks2\LoopTasks2\LoopTasks2\bin\Debug\net7.0\LoopTasks2.dll
+C:\Users\Computer\Desktop\LoopTasks2\LoopTasks2\LoopTasks2\bin\Debug\net7.0\LoopTasks2.pdb
+C:\Users\Computer\Desktop\LoopTasks2\LoopTasks2\LoopTasks2\obj\Debug\net7.0\LoopTasks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Desktop\LoopTasks2\LoopTasks2\LoopTasks2\obj\Debug\net7.0\LoopTasks2.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\LoopTasks2\LoopTasks2\LoopTasks2\obj\Debug\net7.0\LoopTasks2.AssemblyInfo.cs
+C:\Users\Computer\Desktop\LoopTasks2\LoopTasks2\LoopTasks2\obj\Debug\net7.0\LoopTasks2.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\LoopTasks2\LoopTasks2\LoopTasks2\obj\Debug\net7.0\LoopTasks2.dll
+C:\Users\Computer\Desktop\LoopTasks2\LoopTasks2\LoopTasks2\obj\Debug\net7.0\refint\LoopTasks2.dll
+C:\Users\Computer\Desktop\LoopTasks2\LoopTasks2\LoopTasks2\obj\Debug\net7.0\LoopTasks2.pdb
+C:\Users\Computer\Desktop\LoopTasks2\LoopTasks2\LoopTasks2\obj\Debug\net7.0\LoopTasks2.genruntimeconfig.cache
+C:\Users\Computer\Desktop\LoopTasks2\LoopTasks2\LoopTasks2\obj\Debug\net7.0\ref\LoopTasks2.dll
